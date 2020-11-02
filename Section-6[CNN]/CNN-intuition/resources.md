@@ -9,3 +9,6 @@
 #### Delving Deep into Rectifiers: surpassing human-level performance on imageNet Classification
 - https://arxiv.org/pdf/1502.01852.pdf
 
+#### Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition
+- http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf
+
