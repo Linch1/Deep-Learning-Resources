@@ -14,3 +14,9 @@
 
 ### The 9 Deep Learning Papers You need to know ABout
 https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
+### A Friendly Introduction to cross entropy loss
+https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss
+
+### How to implement a neural network intermezzo 2
+http://peterroelants.github.io/posts/neural_network_implementation_intermezzo02/
