@@ -12,3 +12,5 @@
 #### Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition
 - http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf
 
+### The 9 Deep Learning Papers You need to know ABout
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
