@@ -12,3 +12,6 @@
 
 ### k-Sparse Autoencoders By Alireza Makhzani
 - https://arxiv.org/pdf/1312.5663.pdf
+
+### Extracting and COmposing Robus Features with Denoising Autoencoders
+- http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
