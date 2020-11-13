@@ -15,3 +15,12 @@
 
 ### Extracting and COmposing Robus Features with Denoising Autoencoders
 - http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
+
+### Contractive Auto-Encoders: Explicit Invariance Durin Feature Extraction
+- http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Rifai_455.pdf
+
+### Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion
+- http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf
+
+### Reducing the dimesionality of data with neural networks
+- http://www.cs.toronto.edu/~hinton/science.pdf
